@@ -1,0 +1,1281 @@
+Starting...
+
+[1;30m[3/14/2023, 9:19:51 PM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+Starting...
+
+[1;30m[3/14/2023, 9:20:17 PM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+Starting...
+
+[1;30m[3/14/2023, 9:26:02 PM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Starting...
+
+[1;30m[3/15/2023, 3:09:29 PM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Starting...
+
+[1;30m[3/17/2023, 1:49:37 AM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+Starting...
+
+[1;30m[3/17/2023, 1:51:18 AM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+Starting...
+
+[1;30m[3/17/2023, 1:52:42 AM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+[1;30m[3/17/2023, 1:53:49 AM][34m DBB INFO: [0;36mAttempt to restart the bot...[0m
+Starting...
+
+[1;30m[3/17/2023, 1:53:52 AM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+Starting...
+
+[1;30m[3/17/2023, 1:55:11 AM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+Starting...
+
+[1;30m[3/17/2023, 1:55:35 AM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+[1;30m[3/17/2023, 10:50:08 AM][1;31m DBB WARN: [0;31m
+______________________________________
+
+ ERROR:
+
+ Workspace: Music Search [#11]
+ Block: get_member_info [#11]
+
+ ↓ The error will be displayed below ↓
+
+______________________________________
+[0m
+TypeError: Cannot read properties of null (reading 'voice')
+    at Object.code (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/get_member_info.js:205:33)
+    at Object.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:92530)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:107205
+    at Array.forEach (<anonymous>)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:104936
+    at Array.forEach (<anonymous>)
+    at DBB.<computed>.Core.<computed> [as RunNextBlock] (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:103569)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/delete_messages.js:54:18
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[1;30m[3/17/2023, 10:50:08 AM][34m DBB INFO: [0;36mJoin our Discord server (https://discord.gg/PAzxTDw), read our DBB Documentation (https://dbb.software/) or check out the Steam Community if you need help![0m
+Logged in as: ValkyriaBot
+[1;30m[3/17/2023, 10:56:12 AM][34m DBB INFO: [0;36mAttempt to restart the bot...[0m
+Starting...
+
+[1;30m[3/17/2023, 10:56:15 AM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/@discordjs/rest/dist/index.js:933
+        throw new DiscordAPIError(data, "code" in data ? data.code : data.error, status, method, url, requestData);
+              ^
+
+DiscordAPIError[10014]: Unknown Emoji
+    at SequentialHandler.runRequest (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/@discordjs/rest/dist/index.js:933:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.queueRequest (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/@discordjs/rest/dist/index.js:712:14)
+    at async REST.request (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/@discordjs/rest/dist/index.js:1321:22)
+    at async MessageManager.react (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/discord.js/src/managers/MessageManager.js:243:5)
+    at async Message.react (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/discord.js/src/structures/Message.js:786:5) {
+  rawError: { message: 'Unknown Emoji', code: 10014 },
+  code: 10014,
+  status: 400,
+  method: 'PUT',
+  url: 'https://discord.com/api/v10/channels/1027114252865126420/messages/1086227068485898281/reactions/arrow_up/@me',
+  requestBody: { files: undefined, json: undefined }
+}
+
+Node.js v18.14.2
+Logged in as: ValkyriaBot
+Starting...
+
+[1;30m[3/17/2023, 11:11:22 AM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at Receiver.receiverOnFinish (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1173:20)
+    at Receiver.emit (node:events:513:28)
+    at finish (node:internal/streams/writable:748:10)
+    at node:internal/streams/writable:726:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'gateway-us-east1-d.discord.gg'
+} 0
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:248:12)
+    at emitErrorAndClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1009:13)
+    at ClientRequest.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:856:5)
+    at ClientRequest.emit (node:events:513:28)
+    at TLSSocket.socketErrorListener (node:_http_client:502:9)
+    at TLSSocket.emit (node:events:513:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+[1;30m[3/18/2023, 10:14:37 PM][1;31m DBB WARN: [0;31m
+______________________________________
+
+ ERROR:
+
+ Workspace: Makemember [#6]
+ Block: check_if_member_has_role [#3]
+
+ ↓ The error will be displayed below ↓
+
+______________________________________
+[0m
+TypeError: Cannot read properties of undefined (reading 'roles')
+    at Object.code (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/check_if_member_has_role.js:56:29)
+    at Object.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:92530)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:107205
+    at Array.forEach (<anonymous>)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:104936
+    at Array.forEach (<anonymous>)
+    at DBB.<computed>.Core.<computed> [as RunNextBlock] (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:103569)
+    at Object.code (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/find_role.js:88:14)
+    at Object.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:92530)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:107205
+[1;30m[3/18/2023, 10:14:37 PM][34m DBB INFO: [0;36mJoin our Discord server (https://discord.gg/PAzxTDw), read our DBB Documentation (https://dbb.software/) or check out the Steam Community if you need help![0m
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+[1;30m[3/20/2023, 8:25:03 PM][1;31m DBB WARN: [0;31m
+______________________________________
+
+ ERROR:
+
+ Workspace: Music Buttons [#11]
+ Block: create_embed_message [#39]
+
+ ↓ The error will be displayed below ↓
+
+______________________________________
+[0m
+CombinedError (2)
+  Received one or more errors
+
+  1 ExpectedValidationError > s.literal(V)
+  |   Expected values to be equals
+  | 
+  |   Expected:
+  |   | null
+  | 
+  |   Received:
+  |   | "**----- Now Playing -----**\nCrucified - Radio Edit by Army Of Lovers\n\n0:01 ┃ 🧿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ┃ 03:34\n\n**----- Up Next -----**\nFinal Girl by Graveyardguy, Slayyyter\nBack In School by Mother Mother\nRät by Penelope Scott\nA Thousand Eyes by Miracle Of Sound, Aviators\nRiot by Hollywood Undead\nLet's Kill Tonight by Panic! At The Disco\nPit Of Vipers by Simon Curtis\nMastermind by Mindless Self Indulgence\nKiller by The Hoosiers\nEverybody Loves Me by OneRepublic\nAnother Way Out by Hollywood Undead\nKiller by The Ready Set\nEcho by Crusher-P\nKill the Lights by Set It Off\nKiller In The Mirror by Set It Off\nSarcasm by Get Scared\nBleed (Himiko Toga Rap) [feat. DaisyBanaisy] by Rustage, DaisyBanaisy\nlove me love me love me - Slowed by Lespollos\nTerrible Things by Brick + Mortar\nShut Me Up by Mindless Self Indulgence\nhelp\\_urself by Ezekiel\nAfter Dark by Mr.Kitty\nGiftig by Rammstein\nFAKE!FAKE!FAKE! by FAKE TYPE.\nTainted Love by Soft Cell\nPoison by Bell Biv DeVoe\nSomebody's Watching Me by Rockwell\nJudgement by Kensuke Ushio\nLove Me Dead by Ludo\nBrain Revolution Girl 2016 ver. by Maretu\nI Can't Decide by Scissor Sisters\nPsycho by Mia Rodriguez\nBehind The Scene by Kensuke Ushio\nI Write Sins Not Tragedies by Panic! At The Disco\nTrue Faith - 2011 Total Version by New Order\nLotta True Crime by Penelope Scott\nRiver by BRKN LOVE\nWest End Girls by Pet Shop Boys\nBurn It to the Ground by Nickelback\nDelirium Tremendous by Felix Hagan & the Family\nVenom by Icon For Hire\nBrighter Than the Sun by Brick + Mortar\nSick Shit by Together Pangea\nTouch-Tone Telephone by Lemon Demon\nHurt by Maikubi, VOLT VISION\nMidnight Thoughts by Set It Off\nUrban Caravan by FAKE TYPE.\nHayloft II by Mother Mother\nVoodoo Child by Rogue Traders\nHappy Pills by Weathers\nGhost by Confetti\nPunk Tactics by Joey Valence & Brae\nI Want to Be Your Boyfriend by Hot Freaks\nKilling Butterflies by Lewis Blissett\n911 by Ellise\nTwisted by MISSIO\nBlood // Water by grandson\nINFERNO by Sub Urban, Bella Poarch\nFreakshow by Dirty Palm, LexBlaze\nChoke by I DONT KNOW HOW BUT THEY FOUND ME\nGRRRLS by AViVA\nInfinitesimal by Mother Mother\nANTI-HERO by SEKAI NO OWARI\nEmbracing Entropy by Circle of Dust, Celldweller\nHive Mind by Circle of Dust\nTune Into The Madness by The Stupendium, Dan Bull\ndefeating a devil a day by YOHIO\nMISA MISA! by CORPSE, Scarlxrd, Kordhell\nAppetite for Destruction by Vo Williams\nPeople I Don't Like by UPSAHL\nMy Ordinary Life by The Living Tombstone\nPartners in Crime (feat. Ash Costello) by Set It Off, Ash Costello\nRebels by Call Me Karizma\nSerotonin by Call Me Karizma\nLone Survivor by The Wrecks\nKILL THEM by Ethan Ross\nShapeshifter - feat. Styles Of Beyond by Celldweller, Styles Of Beyond\nFallen Angel by Three Days Grace\nGood L\\_ck (Yo\\_'re F\\_cked) by Celldweller\nJericho by Celldweller\nPumped Up Kicks by Foster The People\nThis Is Love by Air Traffic Controller\nBlood // Water by grandson\nAshes by Stellar\nLights Out by Mindless Self Indulgence\nShut Up And Drive by Rihanna\nDirty by grandson\nVenom by Icon For Hire\nKiss Me You Animal by Burn The Ballroom\nThank God I'm Not You by HIMALAYAS\nSide Effect by FKA Rayne\nEnemy (with JID) - from the series Arcane League of Legends by Imagine Dragons, JID, Arcane, League of Legends\nGhosting by Mother Mother\nCold Cold Cold by Cage The Elephant\nBeggin' by Måneskin\nAin't No Rest for the Wicked by Cage The Elephant\nBust Your Knee Caps - Johnny Don't Leave Me by Pomplamoose\nLotta True Crime by Penelope Scott\nSuper Psycho Love by Simon Curtis\nCrucified - Radio Edit by Army Of Lovers\nFinal Girl by Graveyardguy, Slayyyter\nBack In School by Mother Mother\nRät by Penelope Scott\nA Thousand Eyes by Miracle Of Sound, Aviators\nRiot by Hollywood Undead\nLet's Kill Tonight by Panic! At The Disco\nPit Of Vipers by Simon Curtis\nMastermind by Mindless Self Indulgence\nKiller by The Hoosiers\nEverybody Loves Me by OneRepublic\nAnother Way Out by Hollywood Undead\nKiller by The Ready Set\nEcho by Crusher-P\nKill the Lights by Set It Off\nKiller In The Mirror by Set It Off\nSarcasm by Get Scared\nBleed (Himiko Toga Rap) [feat. DaisyBanaisy] by Rustage, DaisyBanaisy\nlove me love me love me - Slowed by Lespollos\nTerrible Things by Brick + Mortar\nShut Me Up by Mindless Self Indulgence\nhelp\\_urself by Ezekiel\nAfter Dark by Mr.Kitty\nGiftig by Rammstein\nFAKE!FAKE!FAKE! by FAKE TYPE.\nTainted Love by Soft Cell\nPoison by Bell Biv DeVoe\nSomebody's Watching Me by Rockwell\nJudgement by Kensuke Ushio\nLove Me Dead by Ludo\nBrain Revolution Girl 2016 ver. by Maretu\nI Can't Decide by Scissor Sisters\nPsycho by Mia Rodriguez\nBehind The Scene by Kensuke Ushio\nI Write Sins Not Tragedies by Panic! At The Disco\nTrue Faith - 2011 Total Version by New Order\nLotta True Crime by Penelope Scott\nRiver by BRKN LOVE\nWest End Girls by Pet Shop Boys\nBurn It to the Ground by Nickelback\nDelirium Tremendous by Felix Hagan & the Family\nVenom by Icon For Hire\nBrighter Than the Sun by Brick + Mortar\nSick Shit by Together Pangea\nTouch-Tone Telephone by Lemon Demon\nHurt by Maikubi, VOLT VISION\nMidnight Thoughts by Set It Off\nUrban Caravan by FAKE TYPE.\nHayloft II by Mother Mother\nVoodoo Child by Rogue Traders\nHappy Pills by Weathers\nGhost by Confetti\nPunk Tactics by Joey Valence & Brae\nI Want to Be Your Boyfriend by Hot Freaks\nKilling Butterflies by Lewis Blissett\n911 by Ellise\nTwisted by MISSIO\nBlood // Water by grandson\nINFERNO by Sub Urban, Bella Poarch\nFreakshow by Dirty Palm, LexBlaze\nChoke by I DONT KNOW HOW BUT THEY FOUND ME\nGRRRLS by AViVA\nInfinitesimal by Mother Mother\nANTI-HERO by SEKAI NO OWARI\nEmbracing Entropy by Circle of Dust, Celldweller\nHive Mind by Circle of Dust\nTune Into The Madness by The Stupendium, Dan Bull\ndefeating a devil a day by YOHIO\nMISA MISA! by CORPSE, Scarlxrd, Kordhell\nAppetite for Destruction by Vo Williams\nPeople I Don't Like by UPSAHL\nMy Ordinary Life by The Living Tombstone\nPartners in Crime (feat. Ash Costello) by Set It Off, Ash Costello\nRebels by Call Me Karizma\nSerotonin by Call Me Karizma\nLone Survivor by The Wrecks\nKILL THEM by Ethan Ross\nShapeshifter - feat. Styles Of Beyond by Celldweller, Styles Of Beyond\nFallen Angel by Three Days Grace\nGood L\\_ck (Yo\\_'re F\\_cked) by Celldweller\nJericho by Celldweller\nPumped Up Kicks by Foster The People\nThis Is Love by Air Traffic Controller\nBlood // Water by grandson\nAshes by Stellar\nLights Out by Mindless Self Indulgence\nShut Up And Drive by Rihanna\nDirty by grandson\nVenom by Icon For Hire\nKiss Me You Animal by Burn The Ballroom\nThank God I'm Not You by HIMALAYAS\nSide Effect by FKA Rayne\nEnemy (with JID) - from the series Arcane League of Legends by Imagine Dragons, JID, Arcane, League of Legends\nGhosting by Mother Mother\nCold Cold Cold by Cage The Elephant\nBeggin' by Måneskin\nAin't No Rest for the Wicked by Cage The Elephant\nBust Your Knee Caps - Johnny Don't Leave Me by Pomplamoose\nLotta True Crime by Penelope Scott"
+
+  2 ExpectedConstraintError > s.string.lengthLessThanOrEqual
+  |   Invalid string length
+  | 
+  |   Expected: expected.length <= 4096
+  | 
+  |   Received:
+  |   | "**----- Now Playing -----**\nCrucified - Radio Edit by Army Of Lovers\n\n0:01 ┃ 🧿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ┃ 03:34\n\n**----- Up Next -----**\nFinal Girl by Graveyardguy, Slayyyter\nBack In School by Mother Mother\nRät by Penelope Scott\nA Thousand Eyes by Miracle Of Sound, Aviators\nRiot by Hollywood Undead\nLet's Kill Tonight by Panic! At The Disco\nPit Of Vipers by Simon Curtis\nMastermind by Mindless Self Indulgence\nKiller by The Hoosiers\nEverybody Loves Me by OneRepublic\nAnother Way Out by Hollywood Undead\nKiller by The Ready Set\nEcho by Crusher-P\nKill the Lights by Set It Off\nKiller In The Mirror by Set It Off\nSarcasm by Get Scared\nBleed (Himiko Toga Rap) [feat. DaisyBanaisy] by Rustage, DaisyBanaisy\nlove me love me love me - Slowed by Lespollos\nTerrible Things by Brick + Mortar\nShut Me Up by Mindless Self Indulgence\nhelp\\_urself by Ezekiel\nAfter Dark by Mr.Kitty\nGiftig by Rammstein\nFAKE!FAKE!FAKE! by FAKE TYPE.\nTainted Love by Soft Cell\nPoison by Bell Biv DeVoe\nSomebody's Watching Me by Rockwell\nJudgement by Kensuke Ushio\nLove Me Dead by Ludo\nBrain Revolution Girl 2016 ver. by Maretu\nI Can't Decide by Scissor Sisters\nPsycho by Mia Rodriguez\nBehind The Scene by Kensuke Ushio\nI Write Sins Not Tragedies by Panic! At The Disco\nTrue Faith - 2011 Total Version by New Order\nLotta True Crime by Penelope Scott\nRiver by BRKN LOVE\nWest End Girls by Pet Shop Boys\nBurn It to the Ground by Nickelback\nDelirium Tremendous by Felix Hagan & the Family\nVenom by Icon For Hire\nBrighter Than the Sun by Brick + Mortar\nSick Shit by Together Pangea\nTouch-Tone Telephone by Lemon Demon\nHurt by Maikubi, VOLT VISION\nMidnight Thoughts by Set It Off\nUrban Caravan by FAKE TYPE.\nHayloft II by Mother Mother\nVoodoo Child by Rogue Traders\nHappy Pills by Weathers\nGhost by Confetti\nPunk Tactics by Joey Valence & Brae\nI Want to Be Your Boyfriend by Hot Freaks\nKilling Butterflies by Lewis Blissett\n911 by Ellise\nTwisted by MISSIO\nBlood // Water by grandson\nINFERNO by Sub Urban, Bella Poarch\nFreakshow by Dirty Palm, LexBlaze\nChoke by I DONT KNOW HOW BUT THEY FOUND ME\nGRRRLS by AViVA\nInfinitesimal by Mother Mother\nANTI-HERO by SEKAI NO OWARI\nEmbracing Entropy by Circle of Dust, Celldweller\nHive Mind by Circle of Dust\nTune Into The Madness by The Stupendium, Dan Bull\ndefeating a devil a day by YOHIO\nMISA MISA! by CORPSE, Scarlxrd, Kordhell\nAppetite for Destruction by Vo Williams\nPeople I Don't Like by UPSAHL\nMy Ordinary Life by The Living Tombstone\nPartners in Crime (feat. Ash Costello) by Set It Off, Ash Costello\nRebels by Call Me Karizma\nSerotonin by Call Me Karizma\nLone Survivor by The Wrecks\nKILL THEM by Ethan Ross\nShapeshifter - feat. Styles Of Beyond by Celldweller, Styles Of Beyond\nFallen Angel by Three Days Grace\nGood L\\_ck (Yo\\_'re F\\_cked) by Celldweller\nJericho by Celldweller\nPumped Up Kicks by Foster The People\nThis Is Love by Air Traffic Controller\nBlood // Water by grandson\nAshes by Stellar\nLights Out by Mindless Self Indulgence\nShut Up And Drive by Rihanna\nDirty by grandson\nVenom by Icon For Hire\nKiss Me You Animal by Burn The Ballroom\nThank God I'm Not You by HIMALAYAS\nSide Effect by FKA Rayne\nEnemy (with JID) - from the series Arcane League of Legends by Imagine Dragons, JID, Arcane, League of Legends\nGhosting by Mother Mother\nCold Cold Cold by Cage The Elephant\nBeggin' by Måneskin\nAin't No Rest for the Wicked by Cage The Elephant\nBust Your Knee Caps - Johnny Don't Leave Me by Pomplamoose\nLotta True Crime by Penelope Scott\nSuper Psycho Love by Simon Curtis\nCrucified - Radio Edit by Army Of Lovers\nFinal Girl by Graveyardguy, Slayyyter\nBack In School by Mother Mother\nRät by Penelope Scott\nA Thousand Eyes by Miracle Of Sound, Aviators\nRiot by Hollywood Undead\nLet's Kill Tonight by Panic! At The Disco\nPit Of Vipers by Simon Curtis\nMastermind by Mindless Self Indulgence\nKiller by The Hoosiers\nEverybody Loves Me by OneRepublic\nAnother Way Out by Hollywood Undead\nKiller by The Ready Set\nEcho by Crusher-P\nKill the Lights by Set It Off\nKiller In The Mirror by Set It Off\nSarcasm by Get Scared\nBleed (Himiko Toga Rap) [feat. DaisyBanaisy] by Rustage, DaisyBanaisy\nlove me love me love me - Slowed by Lespollos\nTerrible Things by Brick + Mortar\nShut Me Up by Mindless Self Indulgence\nhelp\\_urself by Ezekiel\nAfter Dark by Mr.Kitty\nGiftig by Rammstein\nFAKE!FAKE!FAKE! by FAKE TYPE.\nTainted Love by Soft Cell\nPoison by Bell Biv DeVoe\nSomebody's Watching Me by Rockwell\nJudgement by Kensuke Ushio\nLove Me Dead by Ludo\nBrain Revolution Girl 2016 ver. by Maretu\nI Can't Decide by Scissor Sisters\nPsycho by Mia Rodriguez\nBehind The Scene by Kensuke Ushio\nI Write Sins Not Tragedies by Panic! At The Disco\nTrue Faith - 2011 Total Version by New Order\nLotta True Crime by Penelope Scott\nRiver by BRKN LOVE\nWest End Girls by Pet Shop Boys\nBurn It to the Ground by Nickelback\nDelirium Tremendous by Felix Hagan & the Family\nVenom by Icon For Hire\nBrighter Than the Sun by Brick + Mortar\nSick Shit by Together Pangea\nTouch-Tone Telephone by Lemon Demon\nHurt by Maikubi, VOLT VISION\nMidnight Thoughts by Set It Off\nUrban Caravan by FAKE TYPE.\nHayloft II by Mother Mother\nVoodoo Child by Rogue Traders\nHappy Pills by Weathers\nGhost by Confetti\nPunk Tactics by Joey Valence & Brae\nI Want to Be Your Boyfriend by Hot Freaks\nKilling Butterflies by Lewis Blissett\n911 by Ellise\nTwisted by MISSIO\nBlood // Water by grandson\nINFERNO by Sub Urban, Bella Poarch\nFreakshow by Dirty Palm, LexBlaze\nChoke by I DONT KNOW HOW BUT THEY FOUND ME\nGRRRLS by AViVA\nInfinitesimal by Mother Mother\nANTI-HERO by SEKAI NO OWARI\nEmbracing Entropy by Circle of Dust, Celldweller\nHive Mind by Circle of Dust\nTune Into The Madness by The Stupendium, Dan Bull\ndefeating a devil a day by YOHIO\nMISA MISA! by CORPSE, Scarlxrd, Kordhell\nAppetite for Destruction by Vo Williams\nPeople I Don't Like by UPSAHL\nMy Ordinary Life by The Living Tombstone\nPartners in Crime (feat. Ash Costello) by Set It Off, Ash Costello\nRebels by Call Me Karizma\nSerotonin by Call Me Karizma\nLone Survivor by The Wrecks\nKILL THEM by Ethan Ross\nShapeshifter - feat. Styles Of Beyond by Celldweller, Styles Of Beyond\nFallen Angel by Three Days Grace\nGood L\\_ck (Yo\\_'re F\\_cked) by Celldweller\nJericho by Celldweller\nPumped Up Kicks by Foster The People\nThis Is Love by Air Traffic Controller\nBlood // Water by grandson\nAshes by Stellar\nLights Out by Mindless Self Indulgence\nShut Up And Drive by Rihanna\nDirty by grandson\nVenom by Icon For Hire\nKiss Me You Animal by Burn The Ballroom\nThank God I'm Not You by HIMALAYAS\nSide Effect by FKA Rayne\nEnemy (with JID) - from the series Arcane League of Legends by Imagine Dragons, JID, Arcane, League of Legends\nGhosting by Mother Mother\nCold Cold Cold by Cage The Elephant\nBeggin' by Måneskin\nAin't No Rest for the Wicked by Cage The Elephant\nBust Your Knee Caps - Johnny Don't Leave Me by Pomplamoose\nLotta True Crime by Penelope Scott"
+
+    at UnionValidator.handle (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/@sapphire/shapeshift/dist/index.js:1088:23)
+    at UnionValidator.parse (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/@sapphire/shapeshift/dist/index.js:201:88)
+    at EmbedBuilder.setDescription (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/@discordjs/builders/dist/index.js:306:26)
+    at Object.code (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/create_embed_message.js:134:31)
+    at Object.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:92530)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:107205
+    at Array.forEach (<anonymous>)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:104936
+    at Array.forEach (<anonymous>)
+    at DBB.<computed>.Core.<computed> [as RunNextBlock] (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:103569)
+[1;30m[3/20/2023, 8:25:03 PM][34m DBB INFO: [0;36mJoin our Discord server (https://discord.gg/PAzxTDw), read our DBB Documentation (https://dbb.software/) or check out the Steam Community if you need help![0m
+[1;30m[3/20/2023, 8:25:07 PM][1;31m DBB WARN: [0;31m
+______________________________________
+
+ ERROR:
+
+ Workspace: Music Buttons [#11]
+ Block: create_embed_message [#39]
+
+ ↓ The error will be displayed below ↓
+
+______________________________________
+[0m
+CombinedError (2)
+  Received one or more errors
+
+  1 ExpectedValidationError > s.literal(V)
+  |   Expected values to be equals
+  | 
+  |   Expected:
+  |   | null
+  | 
+  |   Received:
+  |   | "**----- Now Playing -----**\nCrucified - Radio Edit by Army Of Lovers\n\n0:01 ┃ 🧿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ┃ 03:34\n\n**----- Up Next -----**\nFinal Girl by Graveyardguy, Slayyyter\nBack In School by Mother Mother\nRät by Penelope Scott\nA Thousand Eyes by Miracle Of Sound, Aviators\nRiot by Hollywood Undead\nLet's Kill Tonight by Panic! At The Disco\nPit Of Vipers by Simon Curtis\nMastermind by Mindless Self Indulgence\nKiller by The Hoosiers\nEverybody Loves Me by OneRepublic\nAnother Way Out by Hollywood Undead\nKiller by The Ready Set\nEcho by Crusher-P\nKill the Lights by Set It Off\nKiller In The Mirror by Set It Off\nSarcasm by Get Scared\nBleed (Himiko Toga Rap) [feat. DaisyBanaisy] by Rustage, DaisyBanaisy\nlove me love me love me - Slowed by Lespollos\nTerrible Things by Brick + Mortar\nShut Me Up by Mindless Self Indulgence\nhelp\\_urself by Ezekiel\nAfter Dark by Mr.Kitty\nGiftig by Rammstein\nFAKE!FAKE!FAKE! by FAKE TYPE.\nTainted Love by Soft Cell\nPoison by Bell Biv DeVoe\nSomebody's Watching Me by Rockwell\nJudgement by Kensuke Ushio\nLove Me Dead by Ludo\nBrain Revolution Girl 2016 ver. by Maretu\nI Can't Decide by Scissor Sisters\nPsycho by Mia Rodriguez\nBehind The Scene by Kensuke Ushio\nI Write Sins Not Tragedies by Panic! At The Disco\nTrue Faith - 2011 Total Version by New Order\nLotta True Crime by Penelope Scott\nRiver by BRKN LOVE\nWest End Girls by Pet Shop Boys\nBurn It to the Ground by Nickelback\nDelirium Tremendous by Felix Hagan & the Family\nVenom by Icon For Hire\nBrighter Than the Sun by Brick + Mortar\nSick Shit by Together Pangea\nTouch-Tone Telephone by Lemon Demon\nHurt by Maikubi, VOLT VISION\nMidnight Thoughts by Set It Off\nUrban Caravan by FAKE TYPE.\nHayloft II by Mother Mother\nVoodoo Child by Rogue Traders\nHappy Pills by Weathers\nGhost by Confetti\nPunk Tactics by Joey Valence & Brae\nI Want to Be Your Boyfriend by Hot Freaks\nKilling Butterflies by Lewis Blissett\n911 by Ellise\nTwisted by MISSIO\nBlood // Water by grandson\nINFERNO by Sub Urban, Bella Poarch\nFreakshow by Dirty Palm, LexBlaze\nChoke by I DONT KNOW HOW BUT THEY FOUND ME\nGRRRLS by AViVA\nInfinitesimal by Mother Mother\nANTI-HERO by SEKAI NO OWARI\nEmbracing Entropy by Circle of Dust, Celldweller\nHive Mind by Circle of Dust\nTune Into The Madness by The Stupendium, Dan Bull\ndefeating a devil a day by YOHIO\nMISA MISA! by CORPSE, Scarlxrd, Kordhell\nAppetite for Destruction by Vo Williams\nPeople I Don't Like by UPSAHL\nMy Ordinary Life by The Living Tombstone\nPartners in Crime (feat. Ash Costello) by Set It Off, Ash Costello\nRebels by Call Me Karizma\nSerotonin by Call Me Karizma\nLone Survivor by The Wrecks\nKILL THEM by Ethan Ross\nShapeshifter - feat. Styles Of Beyond by Celldweller, Styles Of Beyond\nFallen Angel by Three Days Grace\nGood L\\_ck (Yo\\_'re F\\_cked) by Celldweller\nJericho by Celldweller\nPumped Up Kicks by Foster The People\nThis Is Love by Air Traffic Controller\nBlood // Water by grandson\nAshes by Stellar\nLights Out by Mindless Self Indulgence\nShut Up And Drive by Rihanna\nDirty by grandson\nVenom by Icon For Hire\nKiss Me You Animal by Burn The Ballroom\nThank God I'm Not You by HIMALAYAS\nSide Effect by FKA Rayne\nEnemy (with JID) - from the series Arcane League of Legends by Imagine Dragons, JID, Arcane, League of Legends\nGhosting by Mother Mother\nCold Cold Cold by Cage The Elephant\nBeggin' by Måneskin\nAin't No Rest for the Wicked by Cage The Elephant\nBust Your Knee Caps - Johnny Don't Leave Me by Pomplamoose\nLotta True Crime by Penelope Scott\nSuper Psycho Love by Simon Curtis\nCrucified - Radio Edit by Army Of Lovers\nFinal Girl by Graveyardguy, Slayyyter\nBack In School by Mother Mother\nRät by Penelope Scott\nA Thousand Eyes by Miracle Of Sound, Aviators\nRiot by Hollywood Undead\nLet's Kill Tonight by Panic! At The Disco\nPit Of Vipers by Simon Curtis\nMastermind by Mindless Self Indulgence\nKiller by The Hoosiers\nEverybody Loves Me by OneRepublic\nAnother Way Out by Hollywood Undead\nKiller by The Ready Set\nEcho by Crusher-P\nKill the Lights by Set It Off\nKiller In The Mirror by Set It Off\nSarcasm by Get Scared\nBleed (Himiko Toga Rap) [feat. DaisyBanaisy] by Rustage, DaisyBanaisy\nlove me love me love me - Slowed by Lespollos\nTerrible Things by Brick + Mortar\nShut Me Up by Mindless Self Indulgence\nhelp\\_urself by Ezekiel\nAfter Dark by Mr.Kitty\nGiftig by Rammstein\nFAKE!FAKE!FAKE! by FAKE TYPE.\nTainted Love by Soft Cell\nPoison by Bell Biv DeVoe\nSomebody's Watching Me by Rockwell\nJudgement by Kensuke Ushio\nLove Me Dead by Ludo\nBrain Revolution Girl 2016 ver. by Maretu\nI Can't Decide by Scissor Sisters\nPsycho by Mia Rodriguez\nBehind The Scene by Kensuke Ushio\nI Write Sins Not Tragedies by Panic! At The Disco\nTrue Faith - 2011 Total Version by New Order\nLotta True Crime by Penelope Scott\nRiver by BRKN LOVE\nWest End Girls by Pet Shop Boys\nBurn It to the Ground by Nickelback\nDelirium Tremendous by Felix Hagan & the Family\nVenom by Icon For Hire\nBrighter Than the Sun by Brick + Mortar\nSick Shit by Together Pangea\nTouch-Tone Telephone by Lemon Demon\nHurt by Maikubi, VOLT VISION\nMidnight Thoughts by Set It Off\nUrban Caravan by FAKE TYPE.\nHayloft II by Mother Mother\nVoodoo Child by Rogue Traders\nHappy Pills by Weathers\nGhost by Confetti\nPunk Tactics by Joey Valence & Brae\nI Want to Be Your Boyfriend by Hot Freaks\nKilling Butterflies by Lewis Blissett\n911 by Ellise\nTwisted by MISSIO\nBlood // Water by grandson\nINFERNO by Sub Urban, Bella Poarch\nFreakshow by Dirty Palm, LexBlaze\nChoke by I DONT KNOW HOW BUT THEY FOUND ME\nGRRRLS by AViVA\nInfinitesimal by Mother Mother\nANTI-HERO by SEKAI NO OWARI\nEmbracing Entropy by Circle of Dust, Celldweller\nHive Mind by Circle of Dust\nTune Into The Madness by The Stupendium, Dan Bull\ndefeating a devil a day by YOHIO\nMISA MISA! by CORPSE, Scarlxrd, Kordhell\nAppetite for Destruction by Vo Williams\nPeople I Don't Like by UPSAHL\nMy Ordinary Life by The Living Tombstone\nPartners in Crime (feat. Ash Costello) by Set It Off, Ash Costello\nRebels by Call Me Karizma\nSerotonin by Call Me Karizma\nLone Survivor by The Wrecks\nKILL THEM by Ethan Ross\nShapeshifter - feat. Styles Of Beyond by Celldweller, Styles Of Beyond\nFallen Angel by Three Days Grace\nGood L\\_ck (Yo\\_'re F\\_cked) by Celldweller\nJericho by Celldweller\nPumped Up Kicks by Foster The People\nThis Is Love by Air Traffic Controller\nBlood // Water by grandson\nAshes by Stellar\nLights Out by Mindless Self Indulgence\nShut Up And Drive by Rihanna\nDirty by grandson\nVenom by Icon For Hire\nKiss Me You Animal by Burn The Ballroom\nThank God I'm Not You by HIMALAYAS\nSide Effect by FKA Rayne\nEnemy (with JID) - from the series Arcane League of Legends by Imagine Dragons, JID, Arcane, League of Legends\nGhosting by Mother Mother\nCold Cold Cold by Cage The Elephant\nBeggin' by Måneskin\nAin't No Rest for the Wicked by Cage The Elephant\nBust Your Knee Caps - Johnny Don't Leave Me by Pomplamoose\nLotta True Crime by Penelope Scott"
+
+  2 ExpectedConstraintError > s.string.lengthLessThanOrEqual
+  |   Invalid string length
+  | 
+  |   Expected: expected.length <= 4096
+  | 
+  |   Received:
+  |   | "**----- Now Playing -----**\nCrucified - Radio Edit by Army Of Lovers\n\n0:01 ┃ 🧿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ┃ 03:34\n\n**----- Up Next -----**\nFinal Girl by Graveyardguy, Slayyyter\nBack In School by Mother Mother\nRät by Penelope Scott\nA Thousand Eyes by Miracle Of Sound, Aviators\nRiot by Hollywood Undead\nLet's Kill Tonight by Panic! At The Disco\nPit Of Vipers by Simon Curtis\nMastermind by Mindless Self Indulgence\nKiller by The Hoosiers\nEverybody Loves Me by OneRepublic\nAnother Way Out by Hollywood Undead\nKiller by The Ready Set\nEcho by Crusher-P\nKill the Lights by Set It Off\nKiller In The Mirror by Set It Off\nSarcasm by Get Scared\nBleed (Himiko Toga Rap) [feat. DaisyBanaisy] by Rustage, DaisyBanaisy\nlove me love me love me - Slowed by Lespollos\nTerrible Things by Brick + Mortar\nShut Me Up by Mindless Self Indulgence\nhelp\\_urself by Ezekiel\nAfter Dark by Mr.Kitty\nGiftig by Rammstein\nFAKE!FAKE!FAKE! by FAKE TYPE.\nTainted Love by Soft Cell\nPoison by Bell Biv DeVoe\nSomebody's Watching Me by Rockwell\nJudgement by Kensuke Ushio\nLove Me Dead by Ludo\nBrain Revolution Girl 2016 ver. by Maretu\nI Can't Decide by Scissor Sisters\nPsycho by Mia Rodriguez\nBehind The Scene by Kensuke Ushio\nI Write Sins Not Tragedies by Panic! At The Disco\nTrue Faith - 2011 Total Version by New Order\nLotta True Crime by Penelope Scott\nRiver by BRKN LOVE\nWest End Girls by Pet Shop Boys\nBurn It to the Ground by Nickelback\nDelirium Tremendous by Felix Hagan & the Family\nVenom by Icon For Hire\nBrighter Than the Sun by Brick + Mortar\nSick Shit by Together Pangea\nTouch-Tone Telephone by Lemon Demon\nHurt by Maikubi, VOLT VISION\nMidnight Thoughts by Set It Off\nUrban Caravan by FAKE TYPE.\nHayloft II by Mother Mother\nVoodoo Child by Rogue Traders\nHappy Pills by Weathers\nGhost by Confetti\nPunk Tactics by Joey Valence & Brae\nI Want to Be Your Boyfriend by Hot Freaks\nKilling Butterflies by Lewis Blissett\n911 by Ellise\nTwisted by MISSIO\nBlood // Water by grandson\nINFERNO by Sub Urban, Bella Poarch\nFreakshow by Dirty Palm, LexBlaze\nChoke by I DONT KNOW HOW BUT THEY FOUND ME\nGRRRLS by AViVA\nInfinitesimal by Mother Mother\nANTI-HERO by SEKAI NO OWARI\nEmbracing Entropy by Circle of Dust, Celldweller\nHive Mind by Circle of Dust\nTune Into The Madness by The Stupendium, Dan Bull\ndefeating a devil a day by YOHIO\nMISA MISA! by CORPSE, Scarlxrd, Kordhell\nAppetite for Destruction by Vo Williams\nPeople I Don't Like by UPSAHL\nMy Ordinary Life by The Living Tombstone\nPartners in Crime (feat. Ash Costello) by Set It Off, Ash Costello\nRebels by Call Me Karizma\nSerotonin by Call Me Karizma\nLone Survivor by The Wrecks\nKILL THEM by Ethan Ross\nShapeshifter - feat. Styles Of Beyond by Celldweller, Styles Of Beyond\nFallen Angel by Three Days Grace\nGood L\\_ck (Yo\\_'re F\\_cked) by Celldweller\nJericho by Celldweller\nPumped Up Kicks by Foster The People\nThis Is Love by Air Traffic Controller\nBlood // Water by grandson\nAshes by Stellar\nLights Out by Mindless Self Indulgence\nShut Up And Drive by Rihanna\nDirty by grandson\nVenom by Icon For Hire\nKiss Me You Animal by Burn The Ballroom\nThank God I'm Not You by HIMALAYAS\nSide Effect by FKA Rayne\nEnemy (with JID) - from the series Arcane League of Legends by Imagine Dragons, JID, Arcane, League of Legends\nGhosting by Mother Mother\nCold Cold Cold by Cage The Elephant\nBeggin' by Måneskin\nAin't No Rest for the Wicked by Cage The Elephant\nBust Your Knee Caps - Johnny Don't Leave Me by Pomplamoose\nLotta True Crime by Penelope Scott\nSuper Psycho Love by Simon Curtis\nCrucified - Radio Edit by Army Of Lovers\nFinal Girl by Graveyardguy, Slayyyter\nBack In School by Mother Mother\nRät by Penelope Scott\nA Thousand Eyes by Miracle Of Sound, Aviators\nRiot by Hollywood Undead\nLet's Kill Tonight by Panic! At The Disco\nPit Of Vipers by Simon Curtis\nMastermind by Mindless Self Indulgence\nKiller by The Hoosiers\nEverybody Loves Me by OneRepublic\nAnother Way Out by Hollywood Undead\nKiller by The Ready Set\nEcho by Crusher-P\nKill the Lights by Set It Off\nKiller In The Mirror by Set It Off\nSarcasm by Get Scared\nBleed (Himiko Toga Rap) [feat. DaisyBanaisy] by Rustage, DaisyBanaisy\nlove me love me love me - Slowed by Lespollos\nTerrible Things by Brick + Mortar\nShut Me Up by Mindless Self Indulgence\nhelp\\_urself by Ezekiel\nAfter Dark by Mr.Kitty\nGiftig by Rammstein\nFAKE!FAKE!FAKE! by FAKE TYPE.\nTainted Love by Soft Cell\nPoison by Bell Biv DeVoe\nSomebody's Watching Me by Rockwell\nJudgement by Kensuke Ushio\nLove Me Dead by Ludo\nBrain Revolution Girl 2016 ver. by Maretu\nI Can't Decide by Scissor Sisters\nPsycho by Mia Rodriguez\nBehind The Scene by Kensuke Ushio\nI Write Sins Not Tragedies by Panic! At The Disco\nTrue Faith - 2011 Total Version by New Order\nLotta True Crime by Penelope Scott\nRiver by BRKN LOVE\nWest End Girls by Pet Shop Boys\nBurn It to the Ground by Nickelback\nDelirium Tremendous by Felix Hagan & the Family\nVenom by Icon For Hire\nBrighter Than the Sun by Brick + Mortar\nSick Shit by Together Pangea\nTouch-Tone Telephone by Lemon Demon\nHurt by Maikubi, VOLT VISION\nMidnight Thoughts by Set It Off\nUrban Caravan by FAKE TYPE.\nHayloft II by Mother Mother\nVoodoo Child by Rogue Traders\nHappy Pills by Weathers\nGhost by Confetti\nPunk Tactics by Joey Valence & Brae\nI Want to Be Your Boyfriend by Hot Freaks\nKilling Butterflies by Lewis Blissett\n911 by Ellise\nTwisted by MISSIO\nBlood // Water by grandson\nINFERNO by Sub Urban, Bella Poarch\nFreakshow by Dirty Palm, LexBlaze\nChoke by I DONT KNOW HOW BUT THEY FOUND ME\nGRRRLS by AViVA\nInfinitesimal by Mother Mother\nANTI-HERO by SEKAI NO OWARI\nEmbracing Entropy by Circle of Dust, Celldweller\nHive Mind by Circle of Dust\nTune Into The Madness by The Stupendium, Dan Bull\ndefeating a devil a day by YOHIO\nMISA MISA! by CORPSE, Scarlxrd, Kordhell\nAppetite for Destruction by Vo Williams\nPeople I Don't Like by UPSAHL\nMy Ordinary Life by The Living Tombstone\nPartners in Crime (feat. Ash Costello) by Set It Off, Ash Costello\nRebels by Call Me Karizma\nSerotonin by Call Me Karizma\nLone Survivor by The Wrecks\nKILL THEM by Ethan Ross\nShapeshifter - feat. Styles Of Beyond by Celldweller, Styles Of Beyond\nFallen Angel by Three Days Grace\nGood L\\_ck (Yo\\_'re F\\_cked) by Celldweller\nJericho by Celldweller\nPumped Up Kicks by Foster The People\nThis Is Love by Air Traffic Controller\nBlood // Water by grandson\nAshes by Stellar\nLights Out by Mindless Self Indulgence\nShut Up And Drive by Rihanna\nDirty by grandson\nVenom by Icon For Hire\nKiss Me You Animal by Burn The Ballroom\nThank God I'm Not You by HIMALAYAS\nSide Effect by FKA Rayne\nEnemy (with JID) - from the series Arcane League of Legends by Imagine Dragons, JID, Arcane, League of Legends\nGhosting by Mother Mother\nCold Cold Cold by Cage The Elephant\nBeggin' by Måneskin\nAin't No Rest for the Wicked by Cage The Elephant\nBust Your Knee Caps - Johnny Don't Leave Me by Pomplamoose\nLotta True Crime by Penelope Scott"
+
+    at UnionValidator.handle (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/@sapphire/shapeshift/dist/index.js:1088:23)
+    at UnionValidator.parse (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/@sapphire/shapeshift/dist/index.js:201:88)
+    at EmbedBuilder.setDescription (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/@discordjs/builders/dist/index.js:306:26)
+    at Object.code (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/create_embed_message.js:134:31)
+    at Object.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:92530)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:107205
+    at Array.forEach (<anonymous>)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:104936
+    at Array.forEach (<anonymous>)
+    at DBB.<computed>.Core.<computed> [as RunNextBlock] (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:103569)
+[1;30m[3/20/2023, 8:25:07 PM][34m DBB INFO: [0;36mJoin our Discord server (https://discord.gg/PAzxTDw), read our DBB Documentation (https://dbb.software/) or check out the Steam Community if you need help![0m
+/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/discord-player/dist/index.js:958
+        const error = new Error("Could not extract stream for this track");
+                      ^
+
+Error: Could not extract stream for this track
+    at GuildQueuePlayerNode.play (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/discord-player/dist/index.js:958:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Node.js v18.14.2
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Starting...
+
+[1;30m[3/21/2023, 6:46:57 AM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: 1001: 
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2523:51)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1001
+} 0
+Logged in as: ValkyriaBot
+Error: 1001: 
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2523:51)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1001
+} 0
+Logged in as: ValkyriaBot
+Error: 1001: 
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2523:51)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1001
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at Receiver.receiverOnFinish (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1173:20)
+    at Receiver.emit (node:events:513:28)
+    at finish (node:internal/streams/writable:748:10)
+    at node:internal/streams/writable:726:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at Receiver.receiverOnFinish (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1173:20)
+    at Receiver.emit (node:events:513:28)
+    at finish (node:internal/streams/writable:748:10)
+    at node:internal/streams/writable:726:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at Receiver.receiverOnFinish (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1173:20)
+    at Receiver.emit (node:events:513:28)
+    at finish (node:internal/streams/writable:748:10)
+    at node:internal/streams/writable:726:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at Receiver.receiverOnFinish (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1173:20)
+    at Receiver.emit (node:events:513:28)
+    at finish (node:internal/streams/writable:748:10)
+    at node:internal/streams/writable:726:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/discord-player/dist/index.js:958
+        const error = new Error("Could not extract stream for this track");
+                      ^
+
+Error: Could not extract stream for this track
+    at GuildQueuePlayerNode.play (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/discord-player/dist/index.js:958:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Node.js v18.14.2
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Starting...
+
+[1;30m[3/23/2023, 10:15:45 AM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+[1;30m[3/23/2023, 11:08:27 AM][1;31m DBB WARN: [0;31m
+______________________________________
+
+ ERROR:
+
+ Workspace: Verify [#4]
+ Block: check_if_member_has_role [#4]
+
+ ↓ The error will be displayed below ↓
+
+______________________________________
+[0m
+TypeError: Cannot read properties of undefined (reading 'roles')
+    at Object.code (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/check_if_member_has_role.js:56:29)
+    at Object.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:92530)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:107205
+    at Array.forEach (<anonymous>)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:104936
+    at Array.forEach (<anonymous>)
+    at DBB.<computed>.Core.<computed> [as RunNextBlock] (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:103569)
+    at Object.code (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/find_role.js:88:14)
+    at Object.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:92530)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:107205
+[1;30m[3/23/2023, 11:08:27 AM][34m DBB INFO: [0;36mJoin our Discord server (https://discord.gg/PAzxTDw), read our DBB Documentation (https://dbb.software/) or check out the Steam Community if you need help![0m
+Logged in as: ValkyriaBot
+[1;30m[3/23/2023, 11:53:50 AM][34m DBB INFO: [0;36mAttempt to restart the bot...[0m
+Starting...
+
+[1;30m[3/23/2023, 11:53:52 AM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+[1;30m[3/23/2023, 11:53:59 AM][1;31m DBB WARN: [0;31m
+______________________________________
+
+ ERROR:
+
+ Workspace: verifyall [#1]
+ Block: add_member_role [#5]
+
+ ↓ The error will be displayed below ↓
+
+______________________________________
+[0m
+TypeError: Cannot read properties of undefined (reading 'add')
+    at Object.code (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/add_member_role.js:73:22)
+    at Object.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:92530)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:107205
+    at Array.forEach (<anonymous>)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:104936
+    at Array.forEach (<anonymous>)
+    at DBB.<computed>.Core.<computed> [as RunNextBlock] (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:103569)
+    at Object.code (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/find_role.js:88:14)
+    at Object.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:92530)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:107205
+[1;30m[3/23/2023, 11:53:59 AM][34m DBB INFO: [0;36mJoin our Discord server (https://discord.gg/PAzxTDw), read our DBB Documentation (https://dbb.software/) or check out the Steam Community if you need help![0m
+[1;30m[3/23/2023, 11:53:59 AM][1;31m DBB WARN: [0;31m
+______________________________________
+
+ ERROR:
+
+ Workspace: Verify [#5]
+ Block: check_if_member_has_role [#4]
+
+ ↓ The error will be displayed below ↓
+
+______________________________________
+[0m
+TypeError: Cannot read properties of undefined (reading 'roles')
+    at Object.code (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/check_if_member_has_role.js:56:29)
+    at Object.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:92530)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:107205
+    at Array.forEach (<anonymous>)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:104936
+    at Array.forEach (<anonymous>)
+    at DBB.<computed>.Core.<computed> [as RunNextBlock] (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:103569)
+    at Object.code (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/find_role.js:88:14)
+    at Object.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:92530)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:107205
+[1;30m[3/23/2023, 11:53:59 AM][34m DBB INFO: [0;36mJoin our Discord server (https://discord.gg/PAzxTDw), read our DBB Documentation (https://dbb.software/) or check out the Steam Community if you need help![0m
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Starting...
+
+[1;30m[3/23/2023, 2:30:59 PM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Starting...
+
+[1;30m[3/23/2023, 2:40:47 PM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: 1001: 
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2523:51)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1001
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/discord-player/dist/index.js:985
+        const error = new Error("Could not extract stream for this track");
+                      ^
+
+Error: Could not extract stream for this track
+    at GuildQueuePlayerNode.play (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/discord-player/dist/index.js:985:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Node.js v18.14.2
+Starting...
+
+[1;30m[3/24/2023, 11:15:36 AM][1;32m DBB SUCCESS: [0;32mBot Ready![0m
+
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Error: Connection reset by peer
+    at Shard._onWSClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/eris/lib/gateway/Shard.js:2573:23)
+    at WebSocket.emit (node:events:513:28)
+    at WebSocket.emitClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/ws/lib/websocket.js:1264:15)
+    at TLSSocket.emit (node:events:525:35)
+    at node:net:322:12
+    at TCP.done (node:_tls_wrap:588:7) {
+  code: 1006
+} 0
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+[1;30m[3/28/2023, 9:25:57 AM][1;31m DBB WARN: [0;31m
+______________________________________
+
+ ERROR:
+
+ Workspace: Music Search [#13]
+ Block: get_member_info [#11]
+
+ ↓ The error will be displayed below ↓
+
+______________________________________
+[0m
+TypeError: Cannot read properties of null (reading 'voice')
+    at Object.code (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/get_member_info.js:205:33)
+    at Object.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:92530)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:107205
+    at Array.forEach (<anonymous>)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:104936
+    at Array.forEach (<anonymous>)
+    at DBB.<computed>.Core.<computed> [as RunNextBlock] (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:103569)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/delete_messages.js:54:18
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[1;30m[3/28/2023, 9:25:57 AM][34m DBB INFO: [0;36mJoin our Discord server (https://discord.gg/PAzxTDw), read our DBB Documentation (https://dbb.software/) or check out the Steam Community if you need help![0m
+[1;30m[3/28/2023, 9:26:19 AM][1;31m DBB WARN: [0;31m
+______________________________________
+
+ ERROR:
+
+ Workspace: Music Search [#13]
+ Block: get_member_info [#11]
+
+ ↓ The error will be displayed below ↓
+
+______________________________________
+[0m
+TypeError: Cannot read properties of null (reading 'voice')
+    at Object.code (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/get_member_info.js:205:33)
+    at Object.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:92530)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:107205
+    at Array.forEach (<anonymous>)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:104936
+    at Array.forEach (<anonymous>)
+    at DBB.<computed>.Core.<computed> [as RunNextBlock] (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:103569)
+    at /home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/delete_messages.js:54:18
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[1;30m[3/28/2023, 9:26:19 AM][34m DBB INFO: [0;36mJoin our Discord server (https://discord.gg/PAzxTDw), read our DBB Documentation (https://dbb.software/) or check out the Steam Community if you need help![0m
+Logged in as: ValkyriaBot
+[1;30m[3/28/2023, 9:38:47 AM][1;31m DBB WARN: [0;31m
+______________________________________
+
+ ERROR:
+
+ Workspace: Music Search [#13]
+ Block: play_audio_in_queue [#28]
+
+ ↓ The error will be displayed below ↓
+
+______________________________________
+[0m
+Error: Play request received but track was not provided
+    at GuildQueuePlayerNode.play (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/node_modules/discord-player/dist/index.js:965:13)
+    at Object.code (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/blocks/play_audio_in_queue.js:80:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.<anonymous> (/home/amp/.ampdata/instances/valkyriabot01/GenericApplication/bot.js:1:92379)
+[1;30m[3/28/2023, 9:38:47 AM][34m DBB INFO: [0;36mJoin our Discord server (https://discord.gg/PAzxTDw), read our DBB Documentation (https://dbb.software/) or check out the Steam Community if you need help![0m
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
+Logged in as: ValkyriaBot
